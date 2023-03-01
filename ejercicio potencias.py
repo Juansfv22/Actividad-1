@@ -1,0 +1,5 @@
+numero=float(input('Ingrese un número: '))
+cuadrado=pow(numero,2)
+cubo=pow(numero,3)
+print('El cuadrado de',numero,'es',cuadrado)
+print('El cubo de',numero,'es',cubo)

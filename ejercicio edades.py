@@ -1,0 +1,8 @@
+edad_juan=int(input('Ingrese la edad de Juan: '))
+edad_alberto=int(edad_juan*(2/3))
+edad_ana=int(edad_juan*(4/3))
+edad_mama=int(edad_juan+edad_alberto+edad_ana)
+print('la edad de Juan es:',edad_juan)
+print('la edad de Alberto es:',edad_alberto)
+print('la edad de Ana es:',edad_ana)
+print('la edad de la mamá es:',edad_mama)
